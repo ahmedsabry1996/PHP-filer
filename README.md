@@ -4,11 +4,11 @@ simplest , safe PHP file uploader
 ## Getting Started
 Download it as a zip file or colne it
 
-## intalling 
+## installing 
 copy files to your workspace
 
 ## usage
-* instant the Filer class
+* instance Filer class
 * call methods setSize(),setType,savaTo(),upload();
 
 ## Example
