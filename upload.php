@@ -3,7 +3,7 @@
 
 /*-------------------------/
                         
-ACTION OF YOUT HTML FORM
+GOOD LUCK
 
 /-------------------------*/    
 require_once 'filer.php';
