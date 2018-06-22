@@ -1,8 +1,7 @@
 <?php
 
 class Filer{
-     
-        
+    
     public  $input_file_name = null,
             $uploaded_file_name,
             $uploaded_file_size,        
@@ -12,8 +11,7 @@ class Filer{
             $allowed_files,
             $save_to;
             
-    
-    
+
     
     public function upload(float $size=1000000,$allowed_files=array("image/png","image/jpeg","image/jpg"),$save_to="imager_save"){
         
