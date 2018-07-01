@@ -15,7 +15,7 @@ Download it as a zip file or colne it
 ```
 ## Usage example
 ```
-$filer = Filer;
+$filer = new Filer;
 
 //size in MB ,  default is = 1 MB 
 $Filer->setSize(7);
